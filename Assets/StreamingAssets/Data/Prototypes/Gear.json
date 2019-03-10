@@ -1,0 +1,19 @@
+{
+  "Gear": {
+    "default_character": {
+      "MaxStackSize": 1,
+      "BasePrice": 0.0,
+      "Category": "inv_cat_raw",
+      "LocalizationName": "inv_raw_default_character",
+      "LocalizationDescription": "inv_raw_default_character_desc",
+      "Stats": {
+
+      },
+      "Slots": [
+        "suit",
+        "tool"
+      ],
+      "Slot": "body"
+    }
+  }
+}

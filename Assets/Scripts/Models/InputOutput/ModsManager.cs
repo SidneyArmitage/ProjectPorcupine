@@ -77,6 +77,7 @@ public class ModsManager
     {
         HandlePrototypes("Tile", PrototypeManager.TileType.LoadJsonPrototypes);
         HandlePrototypes("Furniture", PrototypeManager.Furniture.LoadJsonPrototypes);
+        HandlePrototypes("Gear", PrototypeManager.Gear.LoadJsonPrototypes);
         HandlePrototypes("Utility", PrototypeManager.Utility.LoadJsonPrototypes);
         HandlePrototypes("RoomBehavior", PrototypeManager.RoomBehavior.LoadJsonPrototypes);
         HandlePrototypes("Inventory", PrototypeManager.Inventory.LoadJsonPrototypes);
